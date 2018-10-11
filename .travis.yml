@@ -9,7 +9,7 @@ node_js:
 os:
 - windows
 - linux
-- mac
+- osx
 
 matrix:
   fast_finish: true
